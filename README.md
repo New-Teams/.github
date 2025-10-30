@@ -69,17 +69,16 @@ Pour les règles complètes, consultez notre [Code de Conduite](CODE_OF_CONDUCT.
 
 ## 👥 L'Équipe
 
-- **Fondateurs** - [Noms]
+- **Fondateurs** - Blasteur1916 / RedSavantMC
 - **Administrateurs** - [Noms]
 - **Modérateurs** - [Noms]
 - **Builders** - [Noms]
 
 ## 📞 Contact & Support
 
-- **Discord** : [https://discord.gg/2RyQe7ZENA]
+- **Discord** : https://discord.gg/2RyQe7ZENA
 - **Email** : jjumper999@gmail.com
-- **Twitter/X** : [@NewSMP]
-- **Site Web** : [En développement]
+- **Site Web** : En développement
 
 ### Signaler un Problème
 - Bugs techniques : Ouvrez une issue sur ce repository
