@@ -126,7 +126,7 @@ NewSMP est plus qu'un simple serveur - c'est une communauté. Que vous soyez un 
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/XXXXXXXXXX?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/2RyQe7ZENA)
+[![Discord](https://img.shields.io/discord/1277561653403189248?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/2RyQe7ZENA)
 [![Players Online](https://img.shields.io/badge/dynamic/json?color=success&label=Joueurs%20en%20ligne&query=players.online&url=https://api.mcsrvstat.us/2/newsmp.example.com)](https://newsmp.example.com)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.XX.X-brightgreen)](https://www.minecraft.net)
 
