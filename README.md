@@ -56,10 +56,7 @@ Pour les règles complètes, consultez notre [Code de Conduite](CODE_OF_CONDUCT.
 - Toute forme de triche ou avantage déloyal
 
 ### Plugins Serveur
-- Protection des claims
-- Téléportation (/home, /spawn)
-- Économie de base
-- Rollback anti-grief
+Différents à chaque saisons
 
 ## 🏆 Projets Communautaires
 
