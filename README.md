@@ -16,18 +16,19 @@ NewSMP est un serveur Minecraft Survival où les joueurs peuvent construire, exp
 - 🛡️ **Protection des Constructions** - Vos créations sont en sécurité
 - 💬 **Communication** - Discord actif pour rester connecté
 - ⚖️ **Administration Équitable** - Équipe dédiée et à l'écoute
+- ✨ **Twist secret**
+Chaque saison possède un twist personnalisé
 
 ## 🚀 Comment Rejoindre
 
 ### Prérequis
-- Minecraft Java Edition (version X.X.X)
+- Minecraft Java Edition (version 1.21)
 - Un compte Discord (recommandé)
 
 ### Étapes
-1. Rejoignez notre serveur Discord : [Lien Discord]
+1. Rejoignez notre serveur Discord : [Discord](https://discord.gg/2RyQe7ZENA)
 2. Lisez et acceptez notre [Code de Conduite](CODE_OF_CONDUCT.md)
-3. Soumettez une demande de whitelist dans le canal dédié
-4. Une fois approuvé, connectez-vous avec l'IP : `newsmp.example.com`
+3. L'ip sera fourni sur discord.
 
 ## 🎯 Règles Principales
 
@@ -70,9 +71,10 @@ Pour les règles complètes, consultez notre [Code de Conduite](CODE_OF_CONDUCT.
 ## 👥 L'Équipe
 
 - **Fondateurs** - Blasteur1916 / RedSavantMC
-- **Administrateurs** - [Noms]
-- **Modérateurs** - [Noms]
-- **Builders** - [Noms]
+- **Co-Fondateur** - Oxibrol
+- **Administrateurs** - Minsane
+- **Modérateurs** - ø
+- **Builders** - ø
 
 ## 📞 Contact & Support
 
@@ -87,10 +89,9 @@ Pour les règles complètes, consultez notre [Code de Conduite](CODE_OF_CONDUCT.
 
 ## 📅 Saisons & Resets
 
-- **Saison Actuelle** : Saison 1
-- **Date de Début** : [Date]
+- **Saison Actuelle** : Saison 4
+- **Date de Début** : Non partagée
 - **Prochain Reset** : Aucun prévu pour le moment
-- **Politique de Reset** : Communication 3 mois à l'avance minimum
 
 ## 🎁 Comment Contribuer
 
@@ -101,17 +102,6 @@ Nous accueillons les contributions de tous les membres !
 - Aidez les nouveaux joueurs
 - Partagez vos créations et idées
 - Signalez les bugs et suggérez des améliorations
-
-## 📸 Galerie
-
-*Ajoutez des captures d'écran de vos meilleures constructions ici !*
-
-## 📜 Changelog
-
-### Version 1.0.0 (Octobre 2025)
-- Lancement initial du serveur
-- Mise en place de la spawn
-- Ouverture des inscriptions whitelist
 
 ---
 
