@@ -1,6 +1,6 @@
 # NewSMP
 
-Serveur Minecraft SMP Java — Saison 4 en cours.
+Serveur Minecraft SMP Java — Saison 5 en développement.
 
 > Survival vanilla+ avec un twist personnalisé chaque saison. Communauté francophone, whitelist sur Discord.
 
