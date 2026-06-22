@@ -37,7 +37,7 @@ Chaque saison a un **twist secret** qui change complètement la dynamique de jeu
 ## Règles (version courte)
 
 - Tout est sur [discord](https://discord.gg/2RyQe7ZENA)
-- Le reste est dans le [Code de Conduite](CODE_OF_CONDUCT.md)
+- Le reste est dans le [Code de Conduite](https://github.com/New-Teams/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## L'équipe
 
