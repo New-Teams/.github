@@ -45,7 +45,7 @@ Chaque saison a un **twist secret** qui change complètement la dynamique de jeu
 |------|--------|
 | Fondateurs | Blasteur1916, RedSavantMC |
 | Co-fondateur | Oxibrol |
-| Admin | Minsane |
+| Admin | Minsane, Paulp400 |
 
 ## Contact
 
