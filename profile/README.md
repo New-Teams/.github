@@ -43,9 +43,13 @@ Chaque saison a un **twist secret** qui change complètement la dynamique de jeu
 
 | Rôle | Pseudo |
 |------|--------|
-| Fondateurs | Blasteur1916, RedSavantMC |
-| Co-fondateur | Oxibrol |
+| Fondateurs | Blasteur1916, RedSavantMC, Oxibrol |
+| JambonBeurre 🥪 | Yuyu.exe |
 | Admin | Minsane, Paulp400 |
+| Modo | TyniTv |
+| Helper | Faux_Ninjaxx, Czerzbonog |
+| Builder | Faux_Ninjaxx, papayemolle |
+| Communication | Aezelh |
 
 ## Contact
 
@@ -57,4 +61,4 @@ Pour les bugs techniques, ouvre une issue ici directement.
 
 ---
 
-*Saison 4 — Plugins serveur variables selon la saison*
+*Saison 5 — Plugins serveur variables selon la saison*
