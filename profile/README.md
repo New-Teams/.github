@@ -55,10 +55,10 @@ Chaque saison a un **twist secret** qui change complètement la dynamique de jeu
 
 - **Discord** — [discord.gg/2RyQe7ZENA](https://discord.gg/2RyQe7ZENA) (support, bugs, tout)
 - **Email** — rscomeback@outlook.fr
-- **Site** — en développement
+- **Site** — https://newsmp.fr
 
 Pour les bugs techniques, ouvre une issue ici directement.
 
 ---
 
-*Saison 4 — Plugins serveur variables selon la saison*
+*Saison 5 — Plugins serveur variables selon la saison*
