@@ -45,6 +45,11 @@ Chaque saison a un **twist secret** qui change complètement la dynamique de jeu
 |------|--------|
 | Fondateurs | Blasteur, RS, Oxibrol |
 | Admin | Yuyu.exe, Minsane, Paulp400 |
+| Builders | Faux_Ninjaxx, PyroAllay |
+| Modérateurs / Helpers | Mido, TyniTV, Czerzbonog, Shadowvortex, Faux_Ninjaxx|
+
+> [!Note]
+> This list isn't automatically update
 
 ## Contact
 
